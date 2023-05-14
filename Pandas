@@ -1,1 +1,7 @@
-
+import pandas as pd
+dict = {'科目':['JP','CN'],'成绩':[99,100]}
+di = {'JP':1,'CN':3}
+ps = pd.Series(di)
+df = pd.DataFrame(ps,columns=['renshu'])
+print(df)
+print(ps)
