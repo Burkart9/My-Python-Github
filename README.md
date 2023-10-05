@@ -1,2 +1,1 @@
-# My-Python-Github
-## 储存我的py代码
+# 我的Python代码仓库
